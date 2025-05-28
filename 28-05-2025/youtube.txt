@@ -1,0 +1,3 @@
+
+1.   Geeky Shows  : https://www.youtube.com/watch?v=V2NeK5UT5Oc&list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI&index=137
+2. https://github.com/sajidhamdard/learnjavascript/blob/main/notes/video-notes/var-let-const-differences.md

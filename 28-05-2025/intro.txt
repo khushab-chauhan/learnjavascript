@@ -1,0 +1,67 @@
+
+what is js => 
+js is high level , interpered programming languge used to make web page interactive and dyanamic .
+js is a program languge  that this techology used in world wide web . along with html , css .
+ 
+
+high-level =>  beacuse easy for human to read and write the code 
+interpered => code execute means check the code line by line .
+compiler   => Code is translated (compiled) into machine code before execution.(take all code and convert into machine code before it is execute)
+
+dyanamic => 	Variables can hold any type of data, and the type can change anytime
+interactive => user can interact with web page like click buttoon,fill form etc ....
+
+
+used to =>  client-side developement , 
+            server-side developement ,
+            full stack  developement ,
+            web Api,
+            mobile,desktop application
+
+
+Advanced => easy to lean and use 
+            interpered
+            object oried script 
+            dyanamic type
+            cross platform
+            runs anywhere 
+            interactive  UI
+
+disadvanced => 
+            some security issues
+            error may not alwayes be clear 
+            dymanic type can lead to hidden bugs 
+            depends on users browserr ,if js is disable,it won't work 
+
+
+developer => 
+        brendan eich 1995 
+        original name is mocha than livescript and java-script
+
+
+
+why you chose js => 
+        it is run all web browser.
+        versatility work in client side or server side.
+        rich ecosystem :- support all framework and library .
+        continute evolution
+        jobs opportunities
+        
+
+version =>  
+
+ES1 -> 1997  -> basic fectures
+ES2 -> 1998  -> minor changes not new fectures
+ES3 -> 1999  -> regular expression / try-catch 
+ES5 -> 2009  -> json support,
+                array method,
+                map,
+                filter
+ES6 -> 2015  ->let ,const ,arrow functio ,class ,modules etc 
+ES7 -> 2016  -> exponation operater 
+ES8 -> 2017  ->asy / await 
+ES9 -> 2018  -> promise asynchonse etc
+
+
+        
+

@@ -1,0 +1,28 @@
+----------------------------------------------------------------
+
+1.javascript is synchronouse or asynchonse ?
+JavaScript is both synchronous and asynchronous, depending on how you use it.
+synchronouse => 
+execute code line by line , one statement at a time .
+each operation must be finish before next one start.
+
+example => 
+    console.log("1")
+    console.log("2")
+    console.log("3")
+
+asynchonse => 
+in js start the task than move on another task without waithing for it to finish.
+
+example => 
+    console.log("1")
+    settimeout (()=>{
+        console.log("3")
+    },2000)
+    console.log("2)
+----------------------------------------------------------------
+
+2.  
+
+
+----------------------------------------------------------------
